@@ -1,4 +1,5 @@
 # Landmark-Image-Classifier
+This project is primarily a personal learning exercise, maintained on GitHub for documentation.
 
 ## Overview
 This project aims to develop a classifier using supervised deep learning techniques for image data to distinguishe images of two famous landmark: the Pantheon and the Hofburg Imperial Palace.
